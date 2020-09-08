@@ -11,7 +11,7 @@ Grade: Depends on class participation (20%) and a final paper (30%) for the firs
 ## Papers to read
 
 **Sept. 9, 2020**: \
-<a href='./papers/Pillow 2008.pdf', target="_blank">Pillow, Jonathan W., et al. "Spatio-temporal correlations and visual signalling in a complete neuronal population." Nature 454.7207 (2008): 995-999.</a>
+<a href='./papers/Pillow 2008.pdf' target="_blank">Pillow, Jonathan W., et al. "Spatio-temporal correlations and visual signalling in a complete neuronal population." Nature 454.7207 (2008): 995-999.</a>
 
 **Sept. 16, 2020**: \
 Behnia, Rudy, et al. "Processing properties of ON and OFF pathways for Drosophila motion detection." Nature 512.7515 (2014): 427-430. 
