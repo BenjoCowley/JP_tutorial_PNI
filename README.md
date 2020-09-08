@@ -11,12 +11,19 @@ Grade: Depends on class participation (20%) and a final paper (30%) for the firs
 ## Papers to read
 
 **Sept. 9, 2020**: \
-Pillow, Jonathan W., et al. "Spatio-temporal correlations and visual signalling in a complete neuronal population." Nature 454.7207 (2008): 995-999.
+<a href='Pillow, Jonathan W., et al. "Spatio-temporal correlations and visual signalling in a complete neuronal population." Nature 454.7207 (2008): 995-999.
 
-**Sept. 16, 2020**: Behnia, Rudy, et al. "Processing properties of ON and OFF pathways for Drosophila motion detection." Nature 512.7515 (2014): 427-430. \
-**Sept. 23, 2020**: Chen, Janice, et al. "Shared memories reveal shared structure in neural activity across individuals." Nature neuroscience 20.1 (2017): 115-125. \
-**Sept. 30, 2020**: Yamins, Daniel LK, et al. "Performance-optimized hierarchical models predict neural responses in higher visual cortex." Proceedings of the National Academy of Sciences 111.23 (2014): 8619-8624. \
-**Oct. 7, 2020**: Walker, Edgar Y., et al. "Inception loops discover what excites neurons most using deep predictive models." Nature neuroscience 22.12 (2019): 2060-2065.
+**Sept. 16, 2020**: \
+Behnia, Rudy, et al. "Processing properties of ON and OFF pathways for Drosophila motion detection." Nature 512.7515 (2014): 427-430. 
+
+**Sept. 23, 2020**: \
+Chen, Janice, et al. "Shared memories reveal shared structure in neural activity across individuals." Nature neuroscience 20.1 (2017): 115-125.
+
+**Sept. 30, 2020**: \
+Yamins, Daniel LK, et al. "Performance-optimized hierarchical models predict neural responses in higher visual cortex." Proceedings of the National Academy of Sciences 111.23 (2014): 8619-8624.
+
+**Oct. 7, 2020**: \
+Walker, Edgar Y., et al. "Inception loops discover what excites neurons most using deep predictive models." Nature neuroscience 22.12 (2019): 2060-2065.
 
 
 ## Final paper
