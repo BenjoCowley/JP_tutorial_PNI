@@ -10,6 +10,8 @@ Grade (first half of semester): Depends on class participation (20%) and a final
 
 ## Papers to read
 
+*Come with one question about the paper to share for every class.*
+
 **Sept. 9, 2020**: \
 <a href="./papers/Pillow 2008.pdf" target="_blank">Pillow, Jonathan W., et al. "Spatio-temporal correlations and visual signalling in a complete neuronal population." Nature 454.7207 (2008): 995-999.</a>
 
