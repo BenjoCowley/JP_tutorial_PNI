@@ -6,7 +6,7 @@ Each week you will have read one scientific paper before class. During class, we
 
 Meets: Wednesdays, 7:30pm - 9pm  (zoom link will be sent before each class) (Sept. 9 - Oct. 7, 2020) \
 Instructor: Dr. Benjamin Cowley \
-Grade: Depends on class participation (20%) and a final paper (30%) for the first half of this semester.
+Grade (first half of semester): Depends on class participation (20%) and a final paper (30%)
 
 ## Papers to read
 
