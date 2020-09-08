@@ -28,4 +28,4 @@ Grade: Depends on class participation (20%) and a final paper (30%) for the firs
 
 ## Final paper
 A large portion of your grade is the final paper for this half-semester. You will choose one of the five papers we have discussed and write about it. The paper will be no more than 7 pages long.  Please see your syllabus for further information.\
-The paper will be due **Oct. 21, at 5pm**. 
+The paper will be due **Oct. 21 at 5pm**. 
