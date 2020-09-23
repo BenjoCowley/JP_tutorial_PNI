@@ -22,10 +22,15 @@ Grade (first half of semester): Depends on class participation (20%) and a final
 <a href="./papers/Chen 2016.pdf" target="_blank">Chen, Janice, et al. "Shared memories reveal shared structure in neural activity across individuals." Nature neuroscience 20.1 (2017): 115-125.</a>
 
 **Sept. 30, 2020**: \
-<a href="./papers/Yamins 2014.pdf" target="_blank">Yamins, Daniel LK, et al. "Performance-optimized hierarchical models predict neural responses in higher visual cortex." Proceedings of the National Academy of Sciences 111.23 (2014): 8619-8624.</a>
+Class will learn about Princeton Library resources.
 
 **Oct. 7, 2020**: \
+<a href="./papers/Yamins 2014.pdf" target="_blank">Yamins, Daniel LK, et al. "Performance-optimized hierarchical models predict neural responses in higher visual cortex." Proceedings of the National Academy of Sciences 111.23 (2014): 8619-8624.</a>
+
+<!--
+**Oct. 7, 2020**: \
 <a href="./papers/Walker 2019.pdf" target="_blank">Walker, Edgar Y., et al. "Inception loops discover what excites neurons most using deep predictive models." Nature neuroscience 22.12 (2019): 2060-2065.</a>
+-->
 
 
 ## Final paper
