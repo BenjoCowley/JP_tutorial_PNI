@@ -4,28 +4,33 @@ Each week you will have read one scientific paper before class. During class, we
 
 ## Class details
 
-Meets: Wednesdays, 7:30pm - 9pm  (zoom link will be sent before each class) (Sept. 9 - Oct. 7, 2020) \
+Meets: Mondays, 7:30pm - 9pm  (zoom link will be sent before each class) (Oct. 19 - Nov. 16, 2020) \
 Instructor: Dr. Benjamin Cowley \
-Grade (first half of semester): Depends on class participation (20%) and a final paper (30%)
+Grade (second half of semester): Depends on class participation (20%) and a final paper (30%)
 
 ## Papers to read
 
 *Come with one question about the paper to share for every class.*
 
-**Sept. 9, 2020**: \
+**Oct. 19, 2020**:\
+No class.
+
+**Oct. 26, 2020**: \
 <a href="./papers/Pillow 2008.pdf" target="_blank">Pillow, Jonathan W., et al. "Spatio-temporal correlations and visual signalling in a complete neuronal population." Nature 454.7207 (2008): 995-999.</a>
 
-**Sept. 16, 2020**: \
+**Nov. 2, 2020**: \
 <a href="./papers/Behnia 2014.pdf" target="_blank">Behnia, Rudy, et al. "Processing properties of ON and OFF pathways for Drosophila motion detection." Nature 512.7515 (2014): 427-430. </a>
 
-**Sept. 23, 2020**: \
+**Nov. 9, 2020**: \
 <a href="./papers/Chen 2016.pdf" target="_blank">Chen, Janice, et al. "Shared memories reveal shared structure in neural activity across individuals." Nature neuroscience 20.1 (2017): 115-125.</a>
 
-**Sept. 30, 2020**: \
-Class will learn about Princeton Library resources.
-
-**Oct. 7, 2020**: \
+**Nov. 16, 2020**: \
 <a href="./papers/Yamins 2014.pdf" target="_blank">Yamins, Daniel LK, et al. "Performance-optimized hierarchical models predict neural responses in higher visual cortex." Proceedings of the National Academy of Sciences 111.23 (2014): 8619-8624.</a>
+
+
+##Final paper**:\
+The final paper is due January 15th (5:00pm), e-mailed to the course instructor. Choose one of the papers we covered and write a 5-7 page summary about it with critique. Refer to your syllabus for details.
+
 
 <!--
 **Oct. 7, 2020**: \
