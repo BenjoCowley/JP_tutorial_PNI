@@ -36,4 +36,4 @@ No class.
 
 ## Final paper
 A large portion (30%) of your grade is the final paper for this half-semester. You will choose one of the four papers we have discussed and write about it. The paper will be no more than 7 pages long.  Please see your syllabus for further information.\
-The paper will be due **Jan. 15 at 5pm**, e-mailed to the course instructor. 
+The paper will be due **Jan. 10 at 5pm**, e-mailed (as a pdf) to the course instructor. 
